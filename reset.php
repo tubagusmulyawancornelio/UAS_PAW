@@ -86,14 +86,3 @@
 <script src="assets/js/app.js"></script>
 </body>
 </html>
-
- <!-- AbsenKit (absensi siswa berbasis web)
- ********************************************
- * Created      : Husni Mubarok				*
- * Release Date : 28 Februari 2017			*
- * E-mail       : cusnix@gmail.com			*
- * Phone        : (+62)82214121989			*
- * BBM          : D38EC5FB					*
- * Facebook     : fb.me/cusnix				*
- ********************************************
- -->

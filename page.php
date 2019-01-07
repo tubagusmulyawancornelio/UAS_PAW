@@ -108,6 +108,9 @@ include'system/admin/help.php';
  if(isset($_GET['g-home'])){ 
 include'system/guru/home.php';
 }
+if(isset($_GET['absen-siswa'])){ 
+include'system/sekretaris/insert-absensi.php';
+}
  if(isset($_GET['g-data-absensi'])){ 
 include'system/guru/data-absensi.php';
 }
